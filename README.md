@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/gabrielf7/gabrielf7/blob/master/original-escanor.gif" >
+<img align="right" width="400" height="400" src="https://github.com/loyannec/loyannec/blob/master/avatar.png" >
 
 ### Hi there! \o/ 👋
 
