@@ -1,5 +1,4 @@
 <img align="right" width="500" height="500" src="https://github.com/loyannec/loyannec/blob/master/avatar.png" >
-
 ### Hi there! \o/ 👋
 
 My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷 I'm a postgraduate student in Computer Science (Software Developer) and I've been a doctor for four years, but for a year as a non-practitioner and in career transition (specialty) to healthtech. I'm an enthusiast of Data Science, Machine Learning, Innovation and Artificial Intelligence. I love to exchange knowledge and experiences. 
