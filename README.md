@@ -13,11 +13,6 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyannec)](https://twitter.com/loyannec)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loyannec)](https://www.linkedin.com/in/loyannec)
 
-
-[![Loyanne's github stats](https://github-readme-stats.vercel.app/api?username=loyannec&show_icons=true&theme=buefy&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyannec&layout=compact&theme=buefy&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **loyannec/loyannec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
