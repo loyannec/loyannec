@@ -8,7 +8,7 @@ My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷 I'm 
 
 I'm a strong supporter of women's empowerment, gender equality, women in technology or anywhere they want to occupy, against racism and male chauvinism and anything else that might come to label someone.
 
-I also like plants, rainbows, music festivals, assembling IKEA furniture, series, stock market and etc.
+I also like coffee, plants, rainbows, music festivals, assembling IKEA furniture, series, stock market and etc.
 
 Would you like to find me?
 
