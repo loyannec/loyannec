@@ -4,7 +4,7 @@
 
 ### Hi there! \o/ 👋
 
-My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷 I'm postgraduated in Computer Science and I've been a physician for four years, but for a year as a non-practitioner and in career transition (specialty) to healthtech. I'm an enthusiast of Data Science, Machine Learning, Innovation and Artificial Intelligence. I love to exchange knowledge and experiences. 
+My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷 I'm postgraduated in Computer Science, currently master's student of Artificial Intelligence in Medicine and Medical Research and I've been a physician for four years, but for a year as a non-practitioner and in career transition (specialty) to healthtech. I'm an enthusiast of Data Science, Machine Learning, Innovation and Artificial Intelligence. I love to exchange knowledge and experiences. 
 
 I'm a strong supporter of women's empowerment, gender equality, women in technology or anywhere they want to occupy, against racism and male chauvinism and anything else that might come to label someone.
 
