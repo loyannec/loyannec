@@ -16,7 +16,6 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loyanne.cristine@gmail.com)](mailto:loyanne.cristine@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/medica_programadora-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/medica_programadora/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyannec)](https://twitter.com/loyannec)
-[![Clubhouse Badge](https://img.shields.io/badge/-Clubhouse-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=clubhouse&logoColor=white&link=https://clubhouse.com/loyanne)](https://clubhouse.com/loyannec)
 
 
 <!--
