@@ -1,4 +1,4 @@
-<img align="up" width="1000" height="700" src="https://github.com/loyannec/loyannec/blob/master/IMG_1638.PNG" >
+<img align="up" width="1000" height="500" src="https://github.com/loyannec/loyannec/blob/master/IMG_1638.PNG" >
 
 ### Hi there! \o/ 👋
 
