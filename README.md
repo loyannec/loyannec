@@ -1,5 +1,3 @@
-<img align="up" width="1000" height="500" src="https://github.com/loyannec/loyannec/blob/master/IMG_1638.PNG" >
-
 ### Hi there! \o/ 👋
 
 My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷   I did career transition to tech and currently I'm a happy Software Engineer Intern at @Zendesk and master's student of Artificial Intelligence in Medicine and Medical Research at University College of Ireland, I postgraduated in Computer Science in 2020 at National College of Ireland, and I've been a physician for four years, but now I'm a non-practitioner (just as volunteer). I'm an enthusiast of Data Science, Machine Learning, Innovation, Artificial Intelligence, Community Health, Wearables, IoT and Mobile Development. I love to exchange knowledge and experiences. 
@@ -15,7 +13,7 @@ Would you like to find me?
 [![Instagram Badge](https://img.shields.io/badge/medica_programadora-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/medica_programadora/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyannec)](https://twitter.com/loyannec)
 
-
+<img align="up" width="1000" height="500" src="https://github.com/loyannec/loyannec/blob/master/IMG_1638.PNG" >
 <!--
 **loyannec/loyannec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
