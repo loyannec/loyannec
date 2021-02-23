@@ -4,7 +4,7 @@
 
 ### Hi there! \o/ 👋
 
-My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷   I did career transition to tech and currently I'm a happy Software Engineer Intern at @Zendesk and master's student of Artificial Intelligence in Medicine and Medical Research at University College of Ireland, I postgraduated in Computer Science in 2020 at National College of Ireland, and I've been a physician for four years, but now I'm a non-practitioner (just as volunteer). I'm an enthusiast of Data Science, Machine Learning, Innovation, Artificial Intelligence, wearables, IoT and Mobile Development. I love to exchange knowledge and experiences. 
+My name is Loyanne Cristine, I'm 31 years old, and I'm from Brazil 🇧🇷   I did career transition to tech and currently I'm a happy Software Engineer Intern at @Zendesk and master's student of Artificial Intelligence in Medicine and Medical Research at University College of Ireland, I postgraduated in Computer Science in 2020 at National College of Ireland, and I've been a physician for four years, but now I'm a non-practitioner (just as volunteer). I'm an enthusiast of Data Science, Machine Learning, Innovation, Artificial Intelligence, Community Health, Wearables, IoT and Mobile Development. I love to exchange knowledge and experiences. 
 
 I'm a strong supporter of women's empowerment, gender equality, women in technology or anywhere they want to occupy, against racism and male chauvinism and anything else that might come to label someone.
 
